@@ -28,3 +28,4 @@ C:\Linda\webbutveckling\år2\DT191G_webbutveckling_med_dotnet\moment1.1_razor\ob
 C:\Linda\webbutveckling\år2\DT191G_webbutveckling_med_dotnet\moment1.1_razor\obj\Debug\net8.0\moment1.1_razor.pdb
 C:\Linda\webbutveckling\år2\DT191G_webbutveckling_med_dotnet\moment1.1_razor\obj\Debug\net8.0\moment1.1_razor.genruntimeconfig.cache
 C:\Linda\webbutveckling\år2\DT191G_webbutveckling_med_dotnet\moment1.1_razor\obj\Debug\net8.0\ref\moment1.1_razor.dll
+C:\Linda\webbutveckling\år2\DT191G_webbutveckling_med_dotnet\moment1.1_razor\obj\Debug\net8.0\moment1.1_razor.sourcelink.json

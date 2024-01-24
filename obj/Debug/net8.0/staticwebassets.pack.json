@@ -245,6 +245,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\logotyp_mom1.svg",
+      "PackagePath": "staticwebassets\\logotyp_mom1.svg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.moment1.1_razor.props",
       "PackagePath": "build\\moment1.1_razor.props"
     },
