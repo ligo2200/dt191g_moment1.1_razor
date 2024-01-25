@@ -2,9 +2,41 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+
+    // get current day of week
+    string messageMonday = DateTime.Now.DayOfWeek == DayOfWeek.Monday // comparing current day of week with monday
+    ? "Idag är det måndag!" // if it's monday
+    : "Idag är det inte måndag."; // if it isn't monday
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="right-content border border-2 p-3">
+    <h1 class="display-4 p-2">Razor</h1>
+    <h2 class="p-2">Information</h2>
+    <div class="d-flex">
+        <p class="p-2 time">Datum/Klockslag:</p>
+        <p class="p-2">@DateTime.Now.ToShortDateString() @DateTime.Now.ToShortTimeString()
+        <p>
+    </div>
+
+    <div class="">
+        <p class="p-2">@messageMonday</p>
+    </div>
+
+    <div class="">
+        <p class="p-2 time">Kurser jag läst:</p>
+        <ul>
+            
+        @{
+            string[] courses = { "DT057G, Webbutveckling 1", "DT084G, Introduktion till programmering i JavaScript", "DT068G, Webbanvändbarhet", "DT200G, Grafisk teknik för webb", "DT003, Databaser", "DT093G, Webbutveckling 2", "DT197G, Webbdesign för CMS", "DT173G, Webbutveckling 3", "IK060G, Projektledning", "DT193G, Fullstacksutveckling med ramverk", "DT071G, Proggrammering i C#", "DT162G, Javascriptbaserad webbutveckling" };
+
+            foreach (var course in courses)
+            {
+                <li class="p-1 m-1">@course</li>
+            }
+        }
+
+        </ul>
+
+
+    </div>
 </div>

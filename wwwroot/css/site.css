@@ -30,4 +30,7 @@ body {
 .selfie {
   border-radius: 50% !important;
 }
+.time {
+  font-weight: bold !important;
+}
 
