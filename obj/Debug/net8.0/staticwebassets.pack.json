@@ -257,6 +257,10 @@
       "PackagePath": "staticwebassets\\logotyp_mom1.svg"
     },
     {
+      "Id": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\moment1._1_razor.styles.css",
+      "PackagePath": "staticwebassets\\moment1._1_razor.styles.css"
+    },
+    {
       "Id": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\selfie1.0.webp",
       "PackagePath": "staticwebassets\\selfie1.0.webp"
     },

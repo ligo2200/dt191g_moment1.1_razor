@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "r8RI+99mx0KCxYa0O2xqzPPpmLpwmHAtKg4/O8s3Tog=",
+  "Hash": "OwcDDqTZyY3xgIrCR3/Tnahzr+Y8OA9NFzBdr4T9qig=",
   "Source": "moment1.1_razor",
   "BasePath": "_content/moment1.1_razor",
   "Mode": "Default",
@@ -1250,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logotyp_mom1.svg"
+    },
+    {
+      "Identity": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\moment1._1_razor.styles.css",
+      "SourceId": "moment1.1_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\",
+      "BasePath": "_content/moment1.1_razor",
+      "RelativePath": "moment1._1_razor.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\moment1._1_razor.styles.css"
     },
     {
       "Identity": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\selfie1.0.webp",
