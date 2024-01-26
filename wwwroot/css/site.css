@@ -33,4 +33,17 @@ body {
 .time {
   font-weight: bold !important;
 }
+.fridolf {
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+}
+.bosse {
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+}
+@media (max-width: 768px) {
+  .cont {
+    margin-left: -1% !important;
+  }
+}
 

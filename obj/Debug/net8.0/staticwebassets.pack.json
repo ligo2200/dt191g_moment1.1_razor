@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\moment1.1_razor.bundle.scp.css"
     },
     {
+      "Id": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\bosse.webp",
+      "PackagePath": "staticwebassets\\bosse.webp"
+    },
+    {
       "Id": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\fridolf.webp",
+      "PackagePath": "staticwebassets\\fridolf.webp"
     },
     {
       "Id": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\js\\site.js",

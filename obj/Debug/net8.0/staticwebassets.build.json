@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KSl7VViJa9PRgi/yx1tbOaHfQcjaoUULJJaw1bB36OQ=",
+  "Hash": "r8RI+99mx0KCxYa0O2xqzPPpmLpwmHAtKg4/O8s3Tog=",
   "Source": "moment1.1_razor",
   "BasePath": "_content/moment1.1_razor",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\moment1.1_razor.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\bosse.webp",
+      "SourceId": "moment1.1_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\",
+      "BasePath": "_content/moment1.1_razor",
+      "RelativePath": "bosse.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bosse.webp"
+    },
+    {
       "Identity": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\css\\site.css",
       "SourceId": "moment1.1_razor",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\fridolf.webp",
+      "SourceId": "moment1.1_razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\",
+      "BasePath": "_content/moment1.1_razor",
+      "RelativePath": "fridolf.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fridolf.webp"
     },
     {
       "Identity": "C:\\Linda\\webbutveckling\\år2\\DT191G_webbutveckling_med_dotnet\\moment1.1_razor\\wwwroot\\js\\site.js",
